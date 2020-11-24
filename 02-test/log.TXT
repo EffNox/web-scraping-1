@@ -1,0 +1,6 @@
+n1 = Extracción de datos con BeautifulSoup,requests y bases en Scrapy
+n2 = Extracción de datos con Scrapy
+n3 = Extracción de datos con Selenium
+n4 = Extracción de datos por Api's, PANDAS
+n5 = Logins automáticos, Extracción de datos con seguridad Captchas GOOGLE V2
+n6 = Extracción de datos IMAGENES,ARCHIVOS, Automatización y almacenamiento de datos en MongoDB
